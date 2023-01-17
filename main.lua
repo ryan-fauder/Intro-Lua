@@ -63,4 +63,4 @@ print(20 - 12.7 - 7.3)
 print(20 - (12.7 + 7.3))
 
 x = 2.54
-print(lua_tointeger(x))
+print(x)
